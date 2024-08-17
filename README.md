@@ -9,10 +9,10 @@ Web developer with whole bunch of interests/skills(Graphic & UI/UX design, Pytho
 ### :computer: Languages and Tools
 
 #### Languages:
-![My Skills](https://skillicons.dev/icons?i=ts,css,html,js,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)
 
 #### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=astro,nextjs,react,alpinejs,svelte,tailwind,bootstrap,)
+![My Skills](https://skillicons.dev/icons?i=astro,tailwind,react,nextjs,alpinejs,svelte,bootstrap,)
 
 #### Development Tools:
 ![My Skills](https://skillicons.dev/icons?i=linux,figma,vscode,postman,bash,powershell,)
